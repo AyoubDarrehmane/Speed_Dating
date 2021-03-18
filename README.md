@@ -2,7 +2,7 @@
 
 modules utilisés : Pandas, Seaborn, Matplotlib
 
-* 1 - Read du csv + cleaning
-* 2 - Distribution selon le sexe, age, domaine d'études
-* 3 - Analyse de la prise de contacte par les participants
-* 4 - Analyse du choix en relation avec l'éthnicité 
+*  Read du csv + cleaning
+*  Distribution selon le sexe, age, domaine d'études
+*  Analyse de la prise de contacte par les participants
+*  Analyse du choix en relation avec l'éthnicité 
